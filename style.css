@@ -41,3 +41,21 @@ body {
   background-color: #ded9e7;
   /* padding: 100px 0px 30px 110px; */
 }
+
+.effect{
+  position: absolute;
+  top: 0%;
+  margin-left: -100px;
+  left: -3%;
+}
+
+.effect-2{
+  position: absolute;
+  top: 20%;
+}
+.img-2{
+  opacity: 0.5;
+}
+.img-1{
+  opacity: 0.5;
+}
